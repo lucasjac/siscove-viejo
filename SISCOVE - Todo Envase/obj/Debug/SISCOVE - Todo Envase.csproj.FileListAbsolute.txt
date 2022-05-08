@@ -1,0 +1,26 @@
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\bin\Debug\SISCOVE - Todo Envase.exe.config
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\bin\Debug\SISCOVE - Todo Envase.exe
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\bin\Debug\SISCOVE - Todo Envase.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.csprojResolveAssemblyReference.cache
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.Properties.Resources.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.csproj.GenerateResource.Cache
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.exe
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormPrincipal.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormSales.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormPurchases.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormRecords.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormStock.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormOrders.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormCustomers.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormComparison.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormDistributors.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormSalePrice.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormChangePassword.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormLogin.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormSplash.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\bin\Debug\SISCOVE - Todo Envase.exe.manifest
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\bin\Debug\SISCOVE - Todo Envase.application
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.exe.manifest
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE - Todo Envase.application
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\SISCOVE\SISCOVE - Todo Envase\obj\Debug\SISCOVE___Todo_Envase.FormInvoice.resources

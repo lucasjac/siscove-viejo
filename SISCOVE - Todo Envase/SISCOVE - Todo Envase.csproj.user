@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\Instalador %28v2.5.0%29\|C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\Instalador %28v2.4.0%29\|C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\Instalador %28v2.3.0%29\|C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\Instalador %28v2.2.0%29\|C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\TODO ENVASE\Instalador %28v2.1.0%29\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
